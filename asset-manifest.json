@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MoovendhanR.github.io/static/css/main.e203f493.css",
+    "main.css": "/MoovendhanR.github.io/static/css/main.9d22d237.css",
     "main.js": "/MoovendhanR.github.io/static/js/main.d712878d.js",
     "static/media/mariott.png": "/MoovendhanR.github.io/static/media/mariott.8d697828642feff3c2a0.png",
     "static/media/anthropology.png": "/MoovendhanR.github.io/static/media/anthropology.0b3652d01f0fc2d13360.png",
@@ -11,11 +11,11 @@
     "static/media/sephora.png": "/MoovendhanR.github.io/static/media/sephora.7ac71345d76d6da85ff0.png",
     "static/media/Moovendhan-r-resume.pdf": "/MoovendhanR.github.io/static/media/Moovendhan-r-resume.62385ab5aac9d9b1352b.pdf",
     "index.html": "/MoovendhanR.github.io/index.html",
-    "main.e203f493.css.map": "/MoovendhanR.github.io/static/css/main.e203f493.css.map",
+    "main.9d22d237.css.map": "/MoovendhanR.github.io/static/css/main.9d22d237.css.map",
     "main.d712878d.js.map": "/MoovendhanR.github.io/static/js/main.d712878d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e203f493.css",
+    "static/css/main.9d22d237.css",
     "static/js/main.d712878d.js"
   ]
 }
